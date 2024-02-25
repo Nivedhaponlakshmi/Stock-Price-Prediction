@@ -25,11 +25,10 @@ Tools and Technologies:
 Python programming language
 Pandas for data manipulation
 NumPy for numerical computations
-Scikit-learn for machine learning algorithms
 Matplotlib and Seaborn for data visualization
 Google Colab for interactive development and documentation
 
 Expected Outcome:
 
-The expected outcome of this project is to develop a robust and accurate machine learning model for predicting AAPL stock prices. By leveraging historical data and advanced machine learning techniques, the model aims to provide valuable insights for investors and traders, assisting them in making informed decisions in the stock market.
+The expected outcome of this project is to develop a robust and accurate  model for predicting AAPL stock prices. By leveraging historical data and advanced machine learning techniques, the model aims to provide valuable insights for investors and traders, assisting them in making informed decisions in the stock market.
 
